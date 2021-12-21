@@ -10,8 +10,8 @@ I tried solving problems on third-party sites and I really liked it. Let that ta
 By this stage of training, I have mastered the method of touch typing in both Russian and English layouts.
 English is at a basic level, but every day I devote 30 minutes to it.
 ___
->
-##Contact:
+
+## Contact:
 >
 *E-mail: Tonny-bai@yandex.ru*
 >
