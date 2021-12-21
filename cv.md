@@ -1,4 +1,5 @@
-## **Anton Bystrov**
+![photo](/img/Anton.jpg)
+# **Anton Bystrov**
 >
 Russia, Vologda
 >
@@ -14,5 +15,7 @@ ___
 ## Contact:
 >
 *E-mail: Tonny-bai@yandex.ru*
+>
+[Discord Name: @antonbystrov23](https://discord.com/channels/@antonbystrov23)
 >
 *Tel: +7(906)-22-99-767*
