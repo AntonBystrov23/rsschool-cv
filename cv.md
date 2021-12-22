@@ -1,4 +1,6 @@
-![photo](/img/Anton.jpg)
+<img src="/img/Anton.jpg" alt="Anton" width="40" height="40">
+> 
+
 # **Anton Bystrov** \
 Russia, Vologda
 >
