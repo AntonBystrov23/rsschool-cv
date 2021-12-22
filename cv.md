@@ -1,5 +1,4 @@
-![photo][1]
-[1]: /img/Anton.jpg
+![photo](/img/Anton.jpg)
 # **Anton Bystrov** \
 Russia, Vologda
 >
