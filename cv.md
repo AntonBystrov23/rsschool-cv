@@ -2,7 +2,7 @@
 
 > 
 
-# **Anton Bystrov** \
+# **Anton Bystrov** 
 Russia, Vologda
 >
 I am 32 years old. I am a road builder by profession. But leading a nomadic lifestyle, I had a chance to change a bunch of specialties. But they were all far from intellectual.
